@@ -19,3 +19,4 @@ samples, guidance on mobile development, and a full API reference.
 # Restaurant-Management-Application
 Restaurant Management Application is a software designed to simplify and organize daily restaurant operations, such as table management, order tracking, menu updates, and billing.
 
+[الدراسة المرجعية.pdf](https://github.com/user-attachments/files/26212376/default.pdf)
